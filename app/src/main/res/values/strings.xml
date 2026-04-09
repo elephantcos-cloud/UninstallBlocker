@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">System Security</string>
+    <string name="accessibility_desc">This service protects your device.</string>
+</resources>
